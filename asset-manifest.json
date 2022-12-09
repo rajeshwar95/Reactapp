@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a9a9573.css",
+    "main.js": "/static/js/main.df96fd80.js",
+    "static/js/787.2be84fa0.chunk.js": "/static/js/787.2be84fa0.chunk.js",
+    "static/media/vecteezy_downtown-sydney-skyline_2170715.jpg": "/static/media/vecteezy_downtown-sydney-skyline_2170715.123897acca989d2888bd.jpg",
+    "static/media/close eye iconpng.png": "/static/media/close eye iconpng.62561a81228c8f931b3a.png",
+    "index.html": "/index.html",
+    "main.8a9a9573.css.map": "/static/css/main.8a9a9573.css.map",
+    "main.df96fd80.js.map": "/static/js/main.df96fd80.js.map",
+    "787.2be84fa0.chunk.js.map": "/static/js/787.2be84fa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a9a9573.css",
+    "static/js/main.df96fd80.js"
+  ]
+}
